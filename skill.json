@@ -1,0 +1,20 @@
+{
+  "name": "genpark-mark-sweep-tri-color-gc-skill",
+  "version": "1.0.0",
+  "description": "Tri-color abstraction mark-and-sweep garbage collection engine with worklist traversal",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "mark-and-sweep",
+    "garbage-collection",
+    "tri-color-marking",
+    "runtime-systems",
+    "heap-profiling",
+    "python-standard-library",
+    "agent-skills",
+    "memory-management",
+    "compiler-runtime",
+    "automatic-memory"
+  ]
+}
